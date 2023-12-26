@@ -1,4 +1,5 @@
 # Module 2 Coding Assignment
+# Link to the live site hosted on github https://ankita007-coder.github.io/Coursera-module2-solution/
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
